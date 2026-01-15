@@ -2,6 +2,8 @@
 
 An OpenAI-compatible proxy server that lets you use Cursor's AI models (composer-1, claude-4.5-sonnet, gpt-5.2-codex, etc.) in OpenCode or any OpenAI-compatible client.
 
+<img width="888" height="792" alt="image" src="https://github.com/user-attachments/assets/1f426176-096c-45e7-90cd-750bf8c581f1" />
+
 ## Requirements
 
 - **Node.js 18+**
