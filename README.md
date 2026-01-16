@@ -8,11 +8,12 @@ An OpenAI-compatible proxy server that lets you use Cursor's AI models (composer
 
 - **Node.js 18+**
 - **macOS** (uses Keychain for token storage)
-- **Cursor** installed and logged in (the proxy uses your Cursor auth token)
+- **Cursor CLI** installed and logged in - [Install here](https://cursor.com/cli) (the proxy uses your Cursor auth token)
 
 ## Quick Start
 
 **Step 1: Start the proxy server** (run in a separate terminal)
+
 ```bash
 # Install globally and run
 npm install -g cursor-opencode-auth
@@ -47,7 +48,7 @@ Add this to your `opencode.json`:
           "limit": { "context": 200000, "output": 32000 }
         },
         "claude-4.5-sonnet": {
-          "name": "Claude 4.5 Sonnet", 
+          "name": "Claude 4.5 Sonnet",
           "limit": { "context": 200000, "output": 16000 }
         },
         "gpt-5.2-codex": {
@@ -80,7 +81,7 @@ curl http://localhost:4141/v1/chat/completions \
 curl http://localhost:4141/v1/chat/completions \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "composer-1", 
+    "model": "composer-1",
     "messages": [{"role": "user", "content": "Hello!"}],
     "stream": true
   }'
@@ -119,13 +120,17 @@ DEBUG=1 node proxy-server.mjs
 ## Troubleshooting
 
 ### "Could not get token from keychain"
-Make sure you're logged into Cursor. The token is stored at:
+
+Make sure you have the [Cursor CLI](https://cursor.com/cli) installed and are logged in. The token is stored at:
+
 ```bash
 security find-generic-password -s "cursor-access-token" -w
 ```
 
 ### Empty responses
+
 Check the proxy logs for errors. The proxy includes debug output showing:
+
 - Request details (model, message count)
 - Cursor API status
 - Response size and extracted text
